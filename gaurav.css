@@ -1,0 +1,172 @@
+body{
+    background-image: linear-gradient(#021838,#305180,#6d8bb5,#305180,#021838);
+    background-size: 100%;
+    
+}
+.topnav{
+    background-color:#000418;
+    
+}
+nav div img{
+    border-radius: 60px;
+}
+nav{
+    font-size: 30px;
+    padding:1px;
+    font-family:Didot;
+    border: 20px;
+}
+
+nav div ul{
+    margin-left:30px;
+}
+nav div ul li a:hover{
+    color:white;
+}
+
+.Aspan{
+    
+    color: white;
+    font-family:Didot;
+    font-size: 30px;
+    margin-left: 25px;
+    padding: 10px 10px 10px 47px
+
+
+}
+
+.about{
+    margin-top:  80px ;
+
+}
+.h1{
+    color: whitesmoke;
+    padding: 40px;
+    font-size: 70px;
+    margin-left: 14px;
+    font-family:Didot;
+    
+}
+.divim{
+    margin-left:50px;
+    position: relative;
+    border-radius: 30px;
+}
+
+.con a{
+    padding: 15px;
+    margin-left: 35px;
+
+}
+.con a:hover{
+    color: white;
+}
+.h2{
+    color: whitesmoke;
+    padding: 40px;
+    font-size: 70px;
+    margin-left: 1114px;
+    font-family:Didot;
+}
+.Sspan{
+    
+    color: white;
+    font-family: Didot;
+    margin-left: 55px;
+    margin-top: 35px;
+}
+
+.cp{
+    margin-left: 530px;
+    font-size: 31px;
+    
+}
+
+.divim2{
+    margin-left: 30px;
+    position: relative;
+    border-radius: 20px;
+    float: left;
+    margin-top: 45px;
+    
+}
+.h3{
+    color: whitesmoke;
+    padding-top: 40px;
+    font-size: 70px;
+    font-family:Didot;
+    margin-left: 39%;
+}
+.card1{
+    padding: 80px;
+    margin-left: 0px;
+    font-family:Didot;
+}
+p{
+    color: white;
+
+}
+h5{
+    color: white;
+}
+.pro1{
+    
+    height: 200px;
+    width: 250px;
+    border-radius: 30px;
+    border: solid white;
+}
+.pro1:hover{
+    box-shadow: 0px 20px 91px 62px #021838;
+}
+
+.h4{
+    color: whitesmoke;
+    padding: 40px;
+    font-size: 70px;
+    margin-left: 14px;
+    font-family:Didot;
+    margin-left: 35%;
+
+}
+.cert1{
+    height: 900px;
+    width: 1400px;
+    margin-left: 140px;
+    box-shadow: 0px 2px 9px 6px white;
+}
+
+.lastthing{
+    color:black;
+    margin-top:150px;
+    
+}
+.lastthing span{
+    font-size: 30px;
+    margin-left: 39%;
+}
+.lastthing span:hover{
+    color:white;
+    cursor: pointer;
+}
+.con2{
+    padding: 15px;
+    margin-left: 32%;
+    cursor: pointer;
+
+}
+.con2 a{
+    
+    color: black;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.con2 a:hover{
+    color:white;
+}
+.name1{
+    font-size: 15px;
+    color: white;
+    margin-left:45%;
+}

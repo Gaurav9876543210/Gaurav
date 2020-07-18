@@ -245,6 +245,9 @@ body{
         display: block;
     }
 
+    #icon-main {
+        align-items: center;
+     }
     #icon{
         font-size: 195%;
         margin-top: 24px;
